@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrerify",
+        "uuid": 9618720,
+        "checksum": "itm3sm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
